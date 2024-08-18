@@ -1,0 +1,17 @@
+# Assembly files
+*.obj
+*.o
+*.hex
+*.bin
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE config files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
