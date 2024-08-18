@@ -1,0 +1,9 @@
+MVI A, B6H
+MOV B, A
+MOV C, B
+MOV D, C
+MOV E, D
+MOV H, L
+MOV L, H
+
+HLT
