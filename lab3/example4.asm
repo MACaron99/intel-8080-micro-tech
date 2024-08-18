@@ -1,0 +1,8 @@
+MOV A, E
+SUB C
+MOV L, A
+MOV A, D
+SBB B
+MOV H, A
+
+HLT
