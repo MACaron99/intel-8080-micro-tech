@@ -1,0 +1,8 @@
+MVI C, B6H
+MOV A, C
+ORA A
+RAL
+RAL
+MOV B, A
+
+HLT
