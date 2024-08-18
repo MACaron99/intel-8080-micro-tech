@@ -1,0 +1,14 @@
+MVI H, B6H
+MVI L, B6H
+ORA A
+MOV A, L
+RAL
+MOV L, A
+MOV A, H
+RAL
+MOV H, A
+MOV A, L
+ACI 0
+MOV L, A
+
+HLT
