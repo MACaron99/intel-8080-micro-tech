@@ -1,0 +1,6 @@
+ADD B
+LXI H, 900H
+ADD M
+ADI 01
+
+HLT
