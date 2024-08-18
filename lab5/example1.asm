@@ -1,0 +1,7 @@
+MVI A, B6H
+RLC
+RLC
+RLC
+RLC
+
+HLT
