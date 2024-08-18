@@ -1,0 +1,5 @@
+MOV H, B
+MOV L, C
+DAD D
+
+HLT
