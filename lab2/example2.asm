@@ -1,0 +1,4 @@
+LDA 880H
+LHLD 890H
+
+HLT
