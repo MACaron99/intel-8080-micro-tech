@@ -1,0 +1,6 @@
+SUB B
+LXI H, 900H
+SUB M
+SBI 1
+
+HLT
