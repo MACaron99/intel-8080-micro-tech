@@ -55,9 +55,3 @@ This repository contains assembly language laboratory exercises for the Intel 80
 - **Example 3:** Rotating bits left and performing addition with carry.
 - **Example 4:** Performing bitwise rotation and logical operations.
 - **Example 5:** Performing bitwise rotate and arithmetic operations.
-
-## How to Use
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/MACaron99/intel-8080-micro-tech
